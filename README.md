@@ -28,7 +28,7 @@ Proyecto #1/
 ├── main.py                  # Punto de entrada
 ├── models/
 │   ├── __init__.py
-│   └── model.py             # Clase Fraccion (lógica de negocio)
+│   └── model.py             # Clase Fraccion 
 ├── views/
 │   ├── __init__.py
 │   └── view.py              # Interfaz gráfica con Tkinter
